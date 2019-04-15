@@ -1,10 +1,10 @@
-# [Open Graph Image as a Service](https://og-image.now.sh)
+# [Open Graph GoT Image as a Service](https://got-image.now.sh)
 
 <a href="https://twitter.com/zeithq/status/1092587111985881088">
     <img align="right" src="https://raw.githubusercontent.com/zeit/og-image/master/public/tweet.png" height="300" />
 </a>
 
-Serverless service that generates dynamic Open Graph images that you can embed in your `<meta>` tags.
+Serverless service that generates dynamic Open Graph Game of Thrones images that you can embed in your `<meta>` tags.
 
 For each keystroke, headless chromium is used to render an HTML page and take a screenshot of the result which gets cached.
 

@@ -1,7 +1,7 @@
 {
-  "name": "og-image",
+  "name": "got-image",
   "version": "1.0.0",
-  "description": "Generate an open graph image for twitter/facebook/etc",
+  "description": "Generate an open graph GoT image for twitter/facebook/etc",
   "main": "dist/card.js",
   "scripts": {
     "dev": "now dev",
